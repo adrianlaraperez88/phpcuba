@@ -1,0 +1,11 @@
+{
+  "personal_site": "",
+  "skills" : ["php", "Python", "jquery", "bootstrap", "Odoo","linux"],
+  "cv_url": {
+    "en" : "",
+    "es" : ""
+  },
+  "social": {
+    "linkedin" : "https://www.linkedin.com/in/adrian-lazaro-lara-perez-b7997b10a/",
+  }
+}
